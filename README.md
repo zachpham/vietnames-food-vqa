@@ -7,7 +7,7 @@ This project focuses on building a **Vietnamese Visual Question Answering (VQA)*
 
 ## 📊 Dataset Specifications
 The dataset is either collected or self-built based on the following criteria:
-* **Specialized Domain**: The project focuses on a niche area such as Vietnamese cuisine, landmarks, traffic signs, or traditional costumes.
+* **Specialized Domain**: The project focuses on a niche area such as Vietnamese cuisine, landmarks, traffic signs, or traditional costumes. 
 * **Scale**: The training set contains $\ge 2,000$ triplets (image, question, answer), with a minimum of 200 unique images and at least 3 questions per image.
 * **Standardized Testing**: A manual test set of $\ge 50$ samples is prepared, ensuring no image overlap with the training set.
 * **Question Diversity**: Questions cover multiple types, including yes/no, counting, identification, attributes, and spatial reasoning.
